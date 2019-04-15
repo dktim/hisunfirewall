@@ -1,0 +1,4 @@
+file_name='/var/root/firewall0402.xlsx'
+firewall_name=['HD-F2-INT-FW-02_11.200','HD-F2-DAT-FW-01_11.201','HD-F2-EXT-FW-01_11.217','资源池FW_11.166']
+object_name=['对象组HD-F2-INT-FW-02_11.200','对象组HD-F2-DAT-FW-01_11.201','对象组HD-F2-EXT-FW-01_11.217','对象组资源池FW_11.166']
+service_name=['对象组资源池FW_11.166','服务组HD-F2-EXT-FW-01_11.217','服务组HD-F2-INT-FW-02_11.200','服务组资源池FW_11.166']
